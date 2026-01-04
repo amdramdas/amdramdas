@@ -1,4 +1,9 @@
-## Hi there 👋
+## 🔐 OpenPGP / GPG
+
+I use OpenPGP (GPG) for signing and encrypted communication.
+
+**PGP fingerprint**
+98E7 BBCF B7D0 BC2C 48C2  EB73 5681 E042 DC53 7BF0
 
 <!--
 **amdramdas/amdramdas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
